@@ -1,5 +1,5 @@
 ###############################################################################
-# Title: Lipidomics Data Analysis Workflow
+# Title: Untargeted Lipidomics: Data Analysis Workflow
 # Author: Marya S.
 # Date: 2023
 #
