@@ -125,7 +125,7 @@ Figures are automatically displayed in RStudio and can be saved manually via the
 
 If you use this pipeline, please cite:
 
-- **Mohamed, A.** *et al.* (2020). *lipidR: A software package for lipidomics data analysis.* *Journal of Proteome Research*, **19**(7), 2890–2898.  
-- **Lin, K.** *et al.* (2021). *LipidSig: Comprehensive lipidomic data analysis and visualization.* *Nucleic Acids Research*, **49**(W1), W336–W344.  
+- **Mohamed, A.** *et al.* (2020). PMID: 32168452.
+- **Lin, WJ.** *et al.* (2021). PMID: 34048582.
 
 ---
