@@ -24,8 +24,8 @@
 #   ggplot2
 #
 # References:
-#   Mohamed, A., et al. (2020). lipidR: A software package for lipidomics data analysis.
-#   Lin, K., et al. (2021). LipidSig: Comprehensive lipidomic data analysis and visualization.
+#   Mohamed, A.** *et al.* (2020). PMID: 32168452.
+#   Lin, WJ.** *et al.* (2021). PMID: 34048582.
 ###############################################################################
 
 # -----------------------------------------------------------------------------
