@@ -1,4 +1,4 @@
-# Untargeted Lipidomics Data Analysis Workflow
+# Untargeted Lipidomics: Data Analysis Workflow
 
 This repository contains an R-based pipeline (using LipidR) for the processing and statistical analysis of untargeted lipidomics data from mouse brain tissues. 
 The workflow was designed for studies investigating lipid dysregulation in Free Sialic Acid Storage Disorder (FSASD) mouse models.
